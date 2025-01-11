@@ -1,0 +1,1 @@
+# Plant-disease-prediction-using-deep-learning-and-deployment-on-azure
